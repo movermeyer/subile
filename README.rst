@@ -8,10 +8,10 @@ Subile: Download subtitles from the terminal
 .. image:: https://coveralls.io/repos/marcwebbie/subile/badge.png
    :target: https://coveralls.io/r/marcwebbie/subile
    :alt: Test Coverage
-.. image:: https://pypip.in/version/subile/badge.svg?text=version
+.. image:: https://img.shields.io/pypi/v/subile.svg?label=version
    :target: https://pypi.python.org/pypi/subile/
    :alt: Version
-.. image:: https://pypip.in/py_versions/subile/badge.svg
+.. image:: https://img.shields.io/pypi/pyversions/subile.svg
    :target: https://pypi.python.org/pypi/subile/
    :alt: Supported Python versions
 
